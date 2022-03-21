@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Dan
-- 👀 I’m interested in ASP.net
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in C# with ASP.net / Javascript / C++
+- 🌱 I’m currently learning Javascript
+- 💞️ I’m looking to collaborate on open source projects
+- 📫 How to reach me dcblakeman@gmail.com
 
 <!---
 dcblakeman/dcblakeman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
