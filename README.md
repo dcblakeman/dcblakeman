@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Dan
-- 👀 I’m interested in C# with ASP.net / Javascript / C++
+- 👀 I’m interested in C# with ASP.net / Javascript / C++ / Java
 - 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 How to reach me dcblakeman@gmail.com
