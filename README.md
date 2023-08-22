@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Dan
-- 👀 I’m interested in C# with ASP.net / Javascript / C++ / Java / Python
-- 🌱 I’m currently learning Javascript
+- 👀 I’m currently enrolled at WGU for the Software Enginner program.
+- 🌱 I’m currently learning PowerShell
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 How to reach me dcblakeman@gmail.com
 
