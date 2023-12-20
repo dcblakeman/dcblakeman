@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Dan
 - 👀 I’m currently enrolled at WGU in the Software Engineer program.
-- 🌱 I’m currently learning C#/Bash/Virtual Box/Containers
+- 🌱 I’m currently learning C#/Bash/Virtualization/Containerization
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 How to reach me dcblakeman@gmail.com
 
